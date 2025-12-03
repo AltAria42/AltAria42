@@ -1,6 +1,6 @@
 
 ---
-# AltAria42 – Accessibilité numérique inclusive
+title: Accueil
 ---
 
 [Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
