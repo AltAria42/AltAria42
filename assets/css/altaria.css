@@ -44,11 +44,13 @@ body {
     flex-wrap: wrap;
 }
 
-/* Logo */
+/* LOGO MAIS À LA BONNE TAILLE */
 .site-header img {
-    max-width: 190px;
-    height: auto;
+    max-width: 200px !important;
+    width: 200px !important;
+    height: auto !important;
 }
+
 
 /* Titre du site */
 .site-header .project-name {
