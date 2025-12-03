@@ -1,6 +1,9 @@
+
 ---
-title: Services – AltAria42
+# AltAria42 – Accessibilité numérique inclusive
 ---
+
+[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
 # Services AltAria42
 
