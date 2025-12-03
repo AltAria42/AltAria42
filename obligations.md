@@ -8,11 +8,18 @@ title: Accueil
 # Obligations légales en accessibilité numérique (France)
 
 ## Qui est concerné ?
-- État, ministères et administrations
-- Collectivités territoriales (régions, départements, communes…)
-- Établissements publics
-- Organismes chargés d’une mission de service public
-- Progressivement : certaines entreprises privées
+
+En pratique, l’accessibilité numérique concerne **toute structure qui met un service numérique à disposition du public** :
+
+- l’État, les ministères et les administrations centrales ;
+- les collectivités territoriales (régions, départements, communes, intercommunalités…) ;
+- les établissements publics (hôpitaux, universités, opérateurs publics, etc.) ;
+- les organismes chargés d’une mission de service public ou d’un service d’intérêt général ;
+- et de plus en plus, les entreprises privées qui proposent des services numériques au grand public  
+  (sites web, portails clients, bornes interactives, distributeurs automatiques bancaires…).
+
+L’idée clé : dès qu’un site, un service en ligne ou une interface numérique est utilisée par des **usagers / clients / citoyens**, l’accessibilité doit être prise en compte.
+
 
 ## Principales obligations
 - Publier une **déclaration d’accessibilité** à jour
