@@ -1,6 +1,8 @@
 ---
-title: "Services AltAria42"
+title: Accueil
 ---
+
+[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
 # Services AltAria42 - Grille 2025/2026
 
