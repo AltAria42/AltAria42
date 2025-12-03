@@ -5,127 +5,122 @@ title: Accueil
 {% include menu.html %}
 
 
-# Services AltAria42 - Grille 2025/2026
+# Services AltAria42 — Grille 2025/2026
 
-J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service au public.
+J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service public.
 
-Mes prestations sont réalisées selon le RGAA 4.1, avec une approche claire, réaliste et compréhensible par toutes les équipes.
+Mes prestations s'appuient sur le RGAA 4.1 et une méthodologie claire, réaliste et compréhensible par toutes les équipes.
 
 ---
 
-## 🔎 Mini-audit flash (1 à 3 pages) - **120 à 180 €**
+## 🔎 Mini-audit flash (1 à 3 pages) — 120 à 180 €
 
 Diagnostic rapide permettant d’identifier les principaux points bloquants sur des pages clés.
 
 **Pour qui ?**  
-Toute structure qui souhaite un premier état des lieux rapide avant correction ou refonte.
+Toute structure souhaitant un premier état des lieux avant correction ou refonte.
 
-**Comprend :**  
+**Comprend :**
 - analyse manuelle des critères essentiels du RGAA  
 - identification des erreurs critiques  
 - recommandations immédiates  
 - priorisation simple  
-- **restitution obligatoire en PDF** (synthèse)
+- restitution obligatoire en PDF (synthèse)
 
 **Délai :** 48 h à 5 jours.
 
 ---
 
-## 🧪 Diagnostic rapide RGAA - **450 à 750 €**
+## 🧪 Diagnostic rapide RGAA (5 à 10 pages) — 450 à 750 €
 
-Évaluation structurée de 5 à 10 pages pour obtenir une vision fiable du niveau global.
+Évaluation structurée donnant une vision fiable du niveau global d’accessibilité.
 
 **Pour qui ?**  
 Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable par une équipe technique.
 
-**Comprend :**  
+**Comprend :**
 - analyse des critères essentiels du RGAA  
 - exemples commentés  
 - recommandations opérationnelles  
 - tableau de priorisation  
-- **rapport PDF complet**  
+- rapport PDF complet  
 - échange audio/visio possible (facultatif)
 
 **Délai :** 1 à 2 semaines.
 
 ---
 
-## 🟩 Audit complet RGAA 4.1 - **1 500 à 2 900 €**
+## 🟩 Audit complet RGAA 4.1 (10 à 20 pages) — 1 500 à 2 900 €
 
-Audit officiel d’un échantillon de 10 à 20 pages représentatives, conforme à la méthodologie RGAA.
+Audit officiel d’un échantillon représentatif, conforme à la méthodologie RGAA.
 
-**Pour qui ?**  
-Toute structure publique ou privée devant publier :  
-- une **déclaration d’accessibilité**,  
-- un **taux de conformité**,  
-- un **schéma pluriannuel**,  
-- un **plan d’action annuel**.
+**Pour qui ?**
+- collectivités et organismes publics  
+- associations et structures recevant du public  
+- entreprises devant publier une déclaration d’accessibilité
 
-Applicable à tout site recevant du public.
-
-**Comprend :**  
+**Comprend :**
 - analyse complète des critères applicables RGAA  
 - tableaux détaillés par critère  
 - recommandations concrètes et exploitables  
-- **restitution obligatoire en PDF**, avec taux (%)  
-- échange audio/visio complémentaire (sans obligation de caméra)
+- restitution obligatoire en PDF, avec taux (%)  
+- échange de restitution (audio ou visio)
 
 **Délai :** 2 à 4 semaines.
 
 ---
 
-## 📝 Déclaration d’accessibilité + Schéma pluriannuel + Plan d’action - **200 à 500 €**
+## 📝 Déclaration d’accessibilité + Schéma + Plan d’action — 200 à 500 €
 
-Rédaction des documents réglementaires obligatoires, conformes au décret du 24 juillet 2019.
+Rédaction des documents réglementaires obligatoires conforme au décret 24 juillet 2019.
 
 **Pour qui ?**  
-Toutes structures soumises aux obligations légales d’accessibilité numérique.
+Toutes structures soumises aux obligations légales.
 
-**Processus de réalisation :**  
-- je m’appuie sur un mini-audit, un diagnostic ou un audit complet  
-- je propose une **trajectoire de mise en conformité** (plan d’actions type)  
-- le client valide **le rythme, les priorités et les moyens internes**  
-- je rédige ensuite :  
-  - la **Déclaration d’accessibilité**  
-  - le **Schéma pluriannuel (3 ans)**  
-  - le **Plan d’action annuel**  
-- les documents sont fournis en **PDF et/ou HTML**, prêts à être publiés.
+**Processus :**
+1. mini-audit, diagnostic ou audit complet  
+2. proposition d’une trajectoire de mise en conformité  
+3. validation interne (priorités, moyens)  
+4. rédaction des trois documents  
+   - Déclaration d’accessibilité  
+   - Schéma pluriannuel (3 ans)  
+   - Plan d’action annuel  
+
+**Livrables :** PDF et/ou HTML, prêts à publier.
 
 **Délai :** 3 à 10 jours.
 
 ---
 
-## 🤝 Accompagnement mensuel - **300 à 450 €/mois** (sur devis)
+## 🤝 Accompagnement mensuel — 300 à 450 €/mois (sur devis)
 
-Suivi continu pour améliorer l’accessibilité dans la durée.
+Suivi continu pour maintenir et améliorer l’accessibilité dans la durée.
 
-**Pour qui ?**  
+**Pour qui ?**
 Collectivités, associations, TPE/PME, équipes communication et web.
 
-**Comprend :**  
+**Comprend :**
 - suivi des corrections  
 - tests réguliers  
 - conseils UX et contenus  
 - support asynchrone (email)  
-- petites visios ponctuelles si nécessaire
+- petites visios ponctuelles si nécessaire  
 
 Prestation flexible, modulaire, sans engagement.
 
 ---
 
-# 📄 Conditions tarifaires 2025/2026
+## 📄 Conditions tarifaires 2025/2026
 
-Les tarifs indiqués sont des **prix publics finaux**, valables pour **2025 et 2026**.  
-**TVA non applicable – article 293 B du CGI (auto-entreprise).**
+Tarifs publics finaux valables pour 2025 et 2026.  
+TVA non applicable — article 293 B du CGI (auto-entreprise).
 
-En cas d’assujettissement à la TVA :  
-➡️ **les prix publics resteront identiques et seront automatiquement exprimés en TTC**,  
-sans impact pour les clients.
+En cas d’assujettissement futur :  
+➡️ Les prix publics resteront identiques et seront exprimés en TTC, sans impact client.
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
-📧 **altaria42acces@gmail.com**  
-🔗 **LinkedIn : https://www.linkedin.com/company/altaria42/**
-
+📧 altaria42acces@gmail.com  
+🔗 https://www.linkedin.com/company/altaria42/
