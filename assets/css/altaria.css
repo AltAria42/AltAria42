@@ -1,0 +1,16 @@
+/* Test très visible */
+body {
+    border-top: 6px solid #D46A2B;
+}
+
+/* Header aligné logo + titre */
+.site-header .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.site-header img {
+    max-width: 180px;
+    height: auto;
+}
