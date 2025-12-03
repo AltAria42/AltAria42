@@ -10,7 +10,7 @@ Mes prestations sont réalisées selon le RGAA 4.1, avec une approche claire, r�
 
 ---
 
-## 🔎 Mini-audit flash (1 à 3 pages) – **120 à 180 €**
+## 🔎 Mini-audit flash (1 à 3 pages) - **120 à 180 €**
 
 Diagnostic rapide permettant d’identifier les principaux points bloquants sur des pages clés.
 
