@@ -15,6 +15,6 @@ J’accompagne les structures publiques et privées dans la mise en conformité 
 
 ## Contact
 
-📧 delphine.galerne@gmail.com  
+📧 altaria42acces@gmail.com  
 🔗 https://www.linkedin.com/company/altaria42/
 
