@@ -7,7 +7,7 @@ title: Déclaration d’accessibilité – AltAria42
 
 {% include menu.html %}
 
-<a id="contenu"></a>
+<p><a id="contenu" role="main"></a></p>
 
 # Déclaration d’accessibilité
 
