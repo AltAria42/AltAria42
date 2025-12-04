@@ -18,3 +18,20 @@ body {
 .skip-link:focus {
   top: 10px;
 }
+.site-footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px 0;
+  font-size: 0.9rem;
+  color: #666666;
+}
+
+.site-footer a {
+  color: #D46A2B; /* cuivre AltAria42 */
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  text-decoration: underline;
+}
