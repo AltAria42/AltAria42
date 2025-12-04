@@ -2,16 +2,19 @@
 title: Déclaration d’accessibilité – AltAria42
 ---
 
+<a id="top"></a>
 <a href="#contenu" class="skip-link">Aller directement au contenu</a>
 
 {% include menu.html %}
 
-# Déclaration d’accessibilité {#contenu}
+<a id="contenu"></a>
+
+# Déclaration d’accessibilité
 
 AltAria42 s’engage à rendre son site web accessible conformément à l’article 47 de la loi du 11 février 2005 et au décret du 24 juillet 2019.
 
 Cette déclaration d’accessibilité concerne le site :  
-**https://altaria42.github.io**
+https://altaria42.github.io
 
 ---
 
@@ -19,7 +22,7 @@ Cette déclaration d’accessibilité concerne le site :
 
 À la suite d’un auto-diagnostic réalisé selon le RGAA 4.1 :
 
-**📌 Le site est déclaré : partiellement conforme**
+Le site est déclaré : **partiellement conforme**
 
 Le site respecte une partie des critères du RGAA mais présente encore plusieurs non-conformités, en cours de correction.
 
@@ -27,11 +30,11 @@ Le site respecte une partie des critères du RGAA mais présente encore plusieur
 
 ## Résultats détaillés de l’évaluation
 
-- Nombre de critères RGAA applicables : *en cours d’évaluation*  
-- Nombre de critères conformes : *en cours*  
-- Taux de conformité : *sera mis à jour après audit complet*  
+- Nombre de critères RGAA applicables : en cours d’évaluation  
+- Nombre de critères conformes : en cours  
+- Taux de conformité : sera mis à jour après audit complet  
 
-*(L’audit sera mis en ligne dès finalisation.)*
+(L’audit sera mis en ligne dès finalisation.)
 
 ---
 
@@ -73,7 +76,7 @@ Pour faciliter l’accès au contenu :
 
 Si vous ne parvenez pas à accéder à un contenu ou si vous rencontrez une difficulté, contactez :
 
-📧 **altaria42acces@gmail.com**
+altaria42acces@gmail.com
 
 Nous nous engageons à répondre dans un délai raisonnable.
 
@@ -83,15 +86,17 @@ Nous nous engageons à répondre dans un délai raisonnable.
 
 Si vous constatez un défaut d’accessibilité et que vous n’obtenez pas de réponse satisfaisante après avoir signalé la difficulté :
 
-- contacter le **Défenseur des droits** via : https://formulaire.defenseurdesdroits.fr  
+- contacter le Défenseur des droits via : https://formulaire.defenseurdesdroits.fr  
 - ou le délégué régional du Défenseur des droits  
 - ou envoyer un courrier (sans affranchissement) :  
-  **Défenseur des droits  
+  Défenseur des droits  
   Libre réponse 71120  
-  75342 Paris CEDEX 07**
+  75342 Paris CEDEX 07  
 
 ---
 
 ## Mise à jour
 
-Déclaration établie le **décembre 2025** et mise à jour à mesure de l’amélioration du site.
+Déclaration établie en **décembre 2025** et mise à jour à mesure de l’amélioration du site.
+
+{% include footer.html %}
