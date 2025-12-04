@@ -1,11 +1,13 @@
 ---
-title: Accueil
+title: AltAria42 – Accessibilité numérique inclusive
 ---
 
-[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
+<a href="#contenu" class="skip-link">Aller directement au contenu</a>
+
+{% include menu.html %}
 
 
-# Obligations légales en accessibilité numérique (France)
+# Obligations légales en accessibilité numérique (France) {#contenu}
 
 ## Qui est concerné ?
 
