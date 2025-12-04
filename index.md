@@ -6,7 +6,6 @@ title: AltAria42 – Accessibilité numérique inclusive
 
 [Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
-<main id="contenu">
 
 # Rendre vos services numériques accessibles, utiles et fiables pour tous
 
@@ -59,4 +58,3 @@ Chaque recommandation est **concrète, expliquée**, et orientée vers des actio
 👉 Une question, un besoin, un premier diagnostic ? [Contactez-moi](/contact)
 
 AltAria42 vous accompagne pour rendre votre site plus inclusif, plus clair, et plus fiable au service de tous vos usagers.
-</main>
