@@ -36,5 +36,5 @@ body {
 
 .site-footer a:hover,
 .site-footer a:focus {
-  text-decoration: underline;
+  text-decoration: none
 }
