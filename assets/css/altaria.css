@@ -94,7 +94,7 @@ header p {
     text-align: center;
     margin-bottom: 2.5rem;
     padding: 0.5rem 0;
-    border-bottom: 2px solid var(--altaria-cuivre);
+    border-bottom: 2px solid var(--altaria-vert);
 }
 
 
@@ -105,7 +105,7 @@ header p {
 }
 
 .wrapper > p:first-of-type a:hover {
-    color: var(--altaria-cuivre);
+    color: var(--altaria-vert);
     text-decoration: underline;
 }
 
