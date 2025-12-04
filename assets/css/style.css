@@ -25,6 +25,9 @@ body {
   font-size: 0.9rem;
   color: #666666;
 }
+.site-footer-top {
+  margin-bottom: 8px;
+}
 
 .site-footer a {
   color: #D46A2B; /* cuivre AltAria42 */
