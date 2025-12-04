@@ -1,15 +1,21 @@
-
 ---
-title: Accueil
+title: Contact – AltAria42
 ---
 
-[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
+<a id="top"></a>
+<a href="#contenu" class="skip-link">Aller directement au contenu</a>
 
-# Contact 
+{% include menu.html %}
+
+<a id="contenu"></a>
+
+# Contact
 
 Pour toute question, demande de mini-audit ou besoin de diagnostic :
 
-📧 altaria42acces@gmail.com  
-🔗 LinkedIn : https://www.linkedin.com/company/altaria42/
+- 📧 altaria42acces@gmail.com  
+- 🔗 https://www.linkedin.com/company/altaria42/
 
 Je réponds généralement sous 48 heures (hors week-end et jours fériés).
+
+{% include footer.html %}
