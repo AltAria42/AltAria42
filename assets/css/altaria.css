@@ -189,7 +189,7 @@ footer {
 
 .altaria-menu a {
   color: #D46A2B;
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: 500;
 }
 
