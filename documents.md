@@ -8,7 +8,7 @@ title: Documents à télécharger – AltAria42
 {% include menu.html %}
 
 <p><a id="contenu" role="main"></a></p>
-
+<section>
 ## Documents à télécharger
 
 Vous trouverez ici plusieurs documents liés à l’accessibilité numérique, au format PDF.
@@ -46,5 +46,5 @@ Format : 1-2 pages - actions prévues sur l’année.
 Si vous avez besoin d’une version éditable (docx ou odt), n’hésitez pas à me contacter :
 
 altaria42acces@gmail.com
-
+</section>
 {% include footer.html %}
