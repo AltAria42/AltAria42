@@ -4,13 +4,13 @@ title: Accueil
 
 [Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
-# Aide à la navigation
+## Aide à la navigation
 
 Cette page a pour objectif de vous aider à comprendre la structure du site et à faciliter votre navigation.
 
 ---
 
-## Navigation générale
+### Navigation générale
 
 Le menu principal est situé en haut de chaque page.  
 Il contient les rubriques essentielles : Accueil, Services, À propos, Contact.
@@ -22,7 +22,7 @@ Vous pouvez l’utiliser :
 
 ---
 
-## Navigation au clavier
+### Navigation au clavier
 
 Vous pouvez parcourir le site sans souris.
 
@@ -34,13 +34,13 @@ Touches utiles :
 
 ---
 
-## Aller directement au contenu
+### Aller directement au contenu
 
 Un lien « Aller au contenu » est présent en début de page (visible au clavier) pour accéder immédiatement au texte principal sans parcourir le menu.
 
 ---
 
-## Structure des pages
+### Structure des pages
 
 Les pages utilisent une hiérarchie logique de titres :  
 - un titre principal (H1),  
@@ -51,21 +51,21 @@ Les images possèdent une alternative textuelle lorsqu’elles apportent une inf
 
 ---
 
-## Documents et téléchargements
+### Documents et téléchargements
 
 Les documents PDF sont clairement indiqués.  
 Ils s’ouvrent dans le même onglet afin de faciliter le repérage.
 
 ---
 
-## Aide avec les technologies d’assistance
+### Aide avec les technologies d’assistance
 
 Le site est compatible avec les principaux lecteurs d’écran (NVDA, JAWS, VoiceOver).  
 Aucune configuration spéciale n’est nécessaire.
 
 ---
 
-## Signaler un problème d’accessibilité
+### Signaler un problème d’accessibilité
 
 Si vous rencontrez une difficulté technique, un problème de lecture ou de navigation, vous pouvez me contacter :
 
