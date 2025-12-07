@@ -202,3 +202,8 @@ footer {
 .altaria-menu a:focus {
   text-decoration: underline;
 }
+hr {
+  border: none;
+  border-top: 2px solid #D46A2B; /* cuivre AltAria42 */
+  margin: 24px 0;
+}
