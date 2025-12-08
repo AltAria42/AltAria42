@@ -166,6 +166,12 @@ footer {
     color: #666;
    text-decoration: underline;
 }
+.site-footer-links a,
+.site-footer-links a:visited {
+  color: #1C3D3A;
+  text-decoration: underline;
+}
+
 
 /* ================================
    RESPONSIVE
