@@ -7,7 +7,8 @@ title: AltAria42 – Accessibilité numérique inclusive
 
 {% include menu.html %}
 
-<main id="contenu" role="main" markdown="1">
+<main id="contenu" role="main">
+<div markdown="1">
 
 ## Rendre vos services numériques accessibles, utiles et fiables pour tous
 
@@ -61,6 +62,7 @@ Une question, un besoin, un premier diagnostic ? [Contactez-moi](/contact)
 
 AltAria42 vous accompagne pour rendre votre site plus inclusif, plus clair, et plus fiable au service de tous vos usagers.
 
+</div>
 </main>
 
 {% include footer.html %}
