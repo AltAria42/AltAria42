@@ -1,3 +1,13 @@
+---
+title: Accueil
+---
+
+<a id="top"></a>
+<a href="#contenu" class="skip-link">Aller directement au contenu</a>
+
+{% include menu.html %}
+
+<a id="contenu"></a>
 ## Rendre vos services numériques accessibles, utiles et fiables pour tous
 
 L’accessibilité numérique n’est pas seulement une obligation réglementaire.  
